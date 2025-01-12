@@ -62,7 +62,7 @@ You'll want to set your `CITREA_RPC_URL` and `PRIVATE_KEY` as environment variab
   - You can [learn how to export it here](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key).
 - `CITREA_RPC_URL`: This is url of the citrea testnet node you're working with.
 
-2. Get testnet ETH
+2. Get testnet cBTC
 
 Head over to [https://citrea.xyz/faucet](https://citrea.xyz/faucet) and get some tesnet cBTC. You should see the cBTC show up in your metamask.
 
