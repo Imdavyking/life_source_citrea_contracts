@@ -64,7 +64,7 @@ You'll want to set your `CITREA_RPC_URL` and `PRIVATE_KEY` as environment variab
 
 2. Get testnet ETH
 
-Head over to [faucets.chain.link](https://faucets.chain.link/) and get some tesnet ETH. You should see the ETH show up in your metamask.
+Head over to [https://citrea.xyz/faucet](https://citrea.xyz/faucet) and get some tesnet cBTC. You should see the cBTC show up in your metamask.
 
 3. Deploy
 
