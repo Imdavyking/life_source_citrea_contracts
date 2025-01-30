@@ -33,6 +33,7 @@ contract LifeSourceManager {
         if (userPointData.points > 0) {
             userPointData.points += points;
             userPointData.updatedTimeStamp = block.timestamp;
+            userPoints[msg.sender] = userPointData;
         } else {
             PointData memory pointData = PointData(
                 points,
